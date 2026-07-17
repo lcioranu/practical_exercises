@@ -1,1 +1,1 @@
-# interview_practical_exercises
+# practical_exercises
